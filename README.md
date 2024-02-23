@@ -17,9 +17,11 @@
 
 ### Projects
 
-[Hive](https://github.com/KishanYern/Team-404-Not-Found)
-[Portfolio Website](https://github.com/KishanYern/Portfolio-Website)
-[Rice Datathon 2024](https://github.com/KishanYern/Rice-Datathon-2024)
-[Data Science Repository](https://github.com/KishanYern/Data-Science-Repository)
-[Discord Stock Bot](https://github.com/KishanYern/Discord-Stock-Bot)
+[Hive](https://github.com/KishanYern/Team-404-Not-Found)<br>
+[Portfolio Website](https://github.com/KishanYern/Portfolio-Website)<br>
+![https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png?f=webp&w=256][Rice Datathon 2024](https://github.com/KishanYern/Rice-Datathon-2024)<br>
+![https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png?f=webp&w=256][Data Science Repository](https://github.com/KishanYern/Data-Science-Repository)<br>
+[Discord Stock Bot](https://github.com/KishanYern/Discord-Stock-Bot)<br>
+
+
 
