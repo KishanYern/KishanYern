@@ -1,27 +1,5 @@
-[![]Kishan Yerneni]<!-- If you want the template for my gif, email me! -->
+#### Hi, I'm Kishan Yerneni
 
-### Languages
+I am an aspiring software engineer who is passionate about all kinds of technology. I am eager to learn new things, which is why I tend to start projects with unfamiliar frameworks and applications in order to get better using them. I am currently a second year student at the University of Houston, where I am majoring in Computer Science with a minor in Mathematics. Please feel free to check out some of my projects in my Repository tab.
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
-
-### Technologies
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![React](https://img.shields.io/badge/-React-000?&logo=React)
-
-### Projects
-
-[Hive](https://github.com/KishanYern/Team-404-Not-Found)<br>
-[Portfolio Website](https://github.com/KishanYern/Portfolio-Website)<br>
-![https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png?f=webp&w=256][Rice Datathon 2024](https://github.com/KishanYern/Rice-Datathon-2024)<br>
-![https://cdn.iconscout.com/icon/free/png-256/free-data-science-46-1170621.png?f=webp&w=256][Data Science Repository](https://github.com/KishanYern/Data-Science-Repository)<br>
-[Discord Stock Bot](https://github.com/KishanYern/Discord-Stock-Bot)<br>
-
-
-
+Also feel free to check out my personal portfolio website [here](https://kishany.tech/)
